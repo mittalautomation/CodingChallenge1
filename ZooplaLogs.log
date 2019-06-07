@@ -1,0 +1,8 @@
+2019-06-06 19:09:46,890  INFO [main] WebEventListener:17 - Before navigating to: 'https://www.zoopla.co.uk/'
+2019-06-06 19:09:53,071  INFO [main] WebEventListener:22 - Navigated to:'https://www.zoopla.co.uk/'
+2019-06-06 19:09:59,053  INFO [main] WebEventListener:17 - Before navigating to: 'https://www.zoopla.co.uk/'
+2019-06-06 19:10:10,792  INFO [main] WebEventListener:22 - Navigated to:'https://www.zoopla.co.uk/'
+2019-06-06 19:10:31,568  INFO [main] WebEventListener:17 - Before navigating to: 'https://www.zoopla.co.uk/'
+2019-06-06 19:11:26,668  INFO [main] WebEventListener:17 - Before navigating to: 'https://www.zoopla.co.uk/'
+2019-06-06 19:11:38,462  INFO [main] WebEventListener:22 - Navigated to:'https://www.zoopla.co.uk/'
+2019-06-06 19:11:53,870  INFO [main] WebEventListener:17 - Before navigating to: 'https://www.zoopla.co.uk/'
